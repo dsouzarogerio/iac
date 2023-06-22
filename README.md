@@ -1,4 +1,4 @@
-# IaC - Infraestructure as Code 
+# IaC - Infrastructure as Code 
 *Fundamentos e início da jornada com AWS, Terraform e Ansible*
 <table>
   <tr>
@@ -17,14 +17,13 @@
   </tr>
   </table>
   
-  
-
-
 O que aprendi:
-- O que é _IaC (Infraestructure as Code - Infraestrutura como código)_ e suas vantagens;
+- O que é _IaC (Infrastructure as Code - Infraestrutura como Código)_ e suas vantagens;
 - Como criar os arquivos necessários para o Terraform;
 - A criar uma infraestrutura utilizando o Terraform e a EC2 da AWS;
 - Como podemos executar comandos dentro das máquinas durante a sua criação;
 - Práticas de configuração com o Ansible;
 - Criação do primeiro playbook, que foi colocado na AWS, na máquina criada com o Terraform:
 - Configuração no playbook para instalação de dependências e bibliotecas, e executação de comandos e modificação de arquivos.
+
+*#AluraIaC*
